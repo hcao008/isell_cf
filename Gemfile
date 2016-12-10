@@ -47,3 +47,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Add devise authentication
 gem "devise"
+
+#Add Simple form which overrides rails form
+gem 'simple_form'
