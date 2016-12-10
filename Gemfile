@@ -15,6 +15,11 @@ gem 'bootstrap-sass'
 gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
 gem 'cloudinary'
 
+# for assigning role
+gem 'rolify'
+#for authorization
+gem 'cancancan','~>1.10'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
