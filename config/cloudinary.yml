@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hcao008
+  api_key: '568638837824951'
+  api_secret: mJ2PfKKVBvQhKiTxVnO8QIV6h8g
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hcao008
+  api_key: '568638837824951'
+  api_secret: mJ2PfKKVBvQhKiTxVnO8QIV6h8g
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hcao008
+  api_key: '568638837824951'
+  api_secret: mJ2PfKKVBvQhKiTxVnO8QIV6h8g
+  enhance_image_tag: true
+  static_image_support: false
